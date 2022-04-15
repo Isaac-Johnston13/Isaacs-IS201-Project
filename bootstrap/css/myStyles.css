@@ -1,0 +1,78 @@
+.subheading {
+font-size: larger;
+font-weight: bold;
+}
+ 
+.post-subtitle{
+    font-weight: 400;
+    font-size: large;
+}
+
+.information {
+    font-weight: lighter;
+}
+
+.post-title{
+    color: black;
+}
+
+.tlinks{
+    font: bold;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+.theading{
+    font-size: 25pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: bold;
+    position: middle;
+}
+
+.theader{
+    width: absolute;
+    height: 350px;
+    margin-top: 0pt;
+    margin-bottom: 0px;
+}
+
+.tfooter{
+    width: absolute;
+    height: 150px;
+    text-align: center;
+}
+
+.tableauPlaceholder{
+    position: absolute;
+    max-height: 650px;
+    width: 800px
+}
+
+.tdescription{
+    font: caption;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.tbody{
+    background-color: darkgrey;
+}
+.tstates{
+    font: caption;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.copyright{
+    font-size: medium;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: darkslategray;
+}
+.tbutton{
+    width: 100px;
+    height: 30px;
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
